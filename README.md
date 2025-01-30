@@ -1,5 +1,5 @@
 # ecomerse--supabase--next-js
-Create a fully responsive e-commerse using nextjs and open source(supabase) 
+Created a fully responsive e-commerse using nextjs and open source(supabase) 
 project Link(url) --> https://ecommerce-five-delta-30.vercel.app/home/collections/chai
 ## Getting Started
 
