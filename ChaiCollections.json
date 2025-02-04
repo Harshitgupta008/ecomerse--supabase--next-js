@@ -1,0 +1,567 @@
+[
+    {
+        "id": 1,
+        "name": "Ceylon Ginger Cinnamon chai tea",
+        "chaiimage": "/Chai_Collections_Image/image1.png",
+        "description": "A lovely warming Chai tea with ginger cinnamon flavours.",
+        "price": 4.85,
+        "weight": "50g",
+        "category": "Chai",
+        "origin": "India",
+        "flavor": [
+            "Spicy",
+            "Sweet"
+        ],
+        "qualities": [
+            "Energy",
+            "Digestion"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Gluten-free"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Masala Spice Chai",
+        "chaiimage": "/Chai_Collections_Image/image2.png",
+        "description": "A bold blend of traditional Indian spices for a robust chai experience.",
+        "price": 5.25,
+        "weight": "100g",
+        "category": "Chai",
+        "origin": "India",
+        "flavor": [
+            "Spicy",
+            "Citrus"
+        ],
+        "qualities": [
+            "Energy",
+            "Relax"
+        ],
+        "caffeine": "High Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Vanilla Cream Chai",
+        "chaiimage": "/Chai_Collections_Image/image3.png",
+        "description": "A smooth and creamy chai with hints of vanilla sweetness.",
+        "price": 6.00,
+        "weight": "75g",
+        "category": "Chai",
+        "origin": "South Africa",
+        "flavor": [
+            "Sweet",
+            "Creamy"
+        ],
+        "qualities": [
+            "Relax"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Mint Masala Chai",
+        "chaiimage": "/Chai_Collections_Image/image4.png",
+        "description": "A refreshing twist to traditional chai with a cool minty finish.",
+        "price": 4.50,
+        "weight": "50g",
+        "category": "Chai",
+        "origin": "Iran",
+        "flavor": [
+            "Minty",
+            "Spicy"
+        ],
+        "qualities": [
+            "Digestion",
+            "Detox"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Cardamom Honey Chai",
+        "chaiimage": "/Chai_Collections_Image/image5.png",
+        "description": "Delicate cardamom paired with sweet honey for a balanced chai.",
+        "price": 5.75,
+        "weight": "80g",
+        "category": "Chai",
+        "origin": "India",
+        "flavor": [
+            "Sweet",
+            "Floral"
+        ],
+        "qualities": [
+            "Relax",
+            "Digestion"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Citrus Zest Chai",
+        "chaiimage": "/Chai_Collections_Image/image6.png",
+        "description": "A lively chai with bursts of citrus and spice.",
+        "price": 5.00,
+        "weight": "60g",
+        "category": "Chai",
+        "origin": "Japan",
+        "flavor": [
+            "Citrus",
+            "Spicy"
+        ],
+        "qualities": [
+            "Energy",
+            "Detox"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Rose Petal Chai",
+        "chaiimage": "/Chai_Collections_Image/image7.png",
+        "description": "A fragrant blend of chai spices with delicate rose petals.",
+        "price": 6.20,
+        "weight": "70g",
+        "category": "Chai",
+        "origin": "Iran",
+        "flavor": [
+            "Floral",
+            "Sweet"
+        ],
+        "qualities": [
+            "Relax"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Turmeric Spice Chai",
+        "chaiimage": "/Chai_Collections_Image/image8.png",
+        "description": "A health-boosting chai with golden turmeric and warm spices.",
+        "price": 4.95,
+        "weight": "55g",
+        "category": "Chai",
+        "origin": "India",
+        "flavor": [
+            "Spicy",
+            "Bitter"
+        ],
+        "qualities": [
+            "Detox",
+            "Digestion"
+        ],
+        "caffeine": "No Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Fruity Hibiscus Chai",
+        "chaiimage": "/Chai_Collections_Image/image9.png",
+        "description": "A vibrant chai blend with tart hibiscus and sweet fruits.",
+        "price": 5.50,
+        "weight": "65g",
+        "category": "Chai",
+        "origin": "South Africa",
+        "flavor": [
+            "Fruity",
+            "Floral"
+        ],
+        "qualities": [
+            "Relax",
+            "Detox"
+        ],
+        "caffeine": "No Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Peppermint Spice Chai",
+        "chaiimage": "/Chai_Collections_Image/image5.png",
+        "description": "A cooling blend of peppermint and traditional chai spices.",
+        "price": 4.70,
+        "weight": "50g",
+        "category": "Chai",
+        "origin": "Japan",
+        "flavor": [
+            "Minty",
+            "Spicy"
+        ],
+        "qualities": [
+            "Digestion",
+            "Energy"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Ginger Lemongrass Chai",
+        "chaiimage": "/Chai_Collections_Image/image1.png",
+        "description": "A zesty fusion of ginger and lemongrass for a refreshing chai.",
+        "price": 5.10,
+        "weight": "60g",
+        "category": "Chai",
+        "origin": "India",
+        "flavor": [
+            "Citrus",
+            "Grassy"
+        ],
+        "qualities": [
+            "Detox",
+            "Digestion"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Gluten-free"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Coconut Cream Chai",
+        "chaiimage": "/Chai_Collections_Image/image2.png",
+        "description": "A creamy chai with tropical coconut undertones.",
+        "price": 6.30,
+        "weight": "75g",
+        "category": "Chai",
+        "origin": "South Africa",
+        "flavor": [
+            "Creamy",
+            "Sweet"
+        ],
+        "qualities": [
+            "Relax"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Lavender Chai",
+        "chaiimage": "/Chai_Collections_Image/image3.png",
+        "description": "A calming chai infused with soothing lavender notes.",
+        "price": 5.80,
+        "weight": "65g",
+        "category": "Chai",
+        "origin": "Iran",
+        "flavor": [
+            "Floral",
+            "Sweet"
+        ],
+        "qualities": [
+            "Relax"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Clove Cinnamon Chai",
+        "chaiimage": "/Chai_Collections_Image/image4.png",
+        "description": "A bold, spicy chai featuring clove and cinnamon.",
+        "price": 4.90,
+        "weight": "55g",
+        "category": "Chai",
+        "origin": "India",
+        "flavor": [
+            "Spicy"
+        ],
+        "qualities": [
+            "Energy"
+        ],
+        "caffeine": "High Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Jasmine Green Chai",
+        "chaiimage": "/Chai_Collections_Image/image5.png",
+        "description": "A floral chai blend with green tea and jasmine blossoms.",
+        "price": 5.95,
+        "weight": "70g",
+        "category": "Chai",
+        "origin": "Japan",
+        "flavor": [
+            "Floral",
+            "Grassy"
+        ],
+        "qualities": [
+            "Energy",
+            "Relax"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Berry Spice Chai",
+        "chaiimage": "/Chai_Collections_Image/image6.png",
+        "description": "A fruity and spicy chai with rich berry flavors.",
+        "price": 5.40,
+        "weight": "60g",
+        "category": "Chai",
+        "origin": "South Africa",
+        "flavor": [
+            "Fruity",
+            "Spicy"
+        ],
+        "qualities": [
+            "Energy",
+            "Detox"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Lemon Ginger Chai",
+        "chaiimage": "/Chai_Collections_Image/image7.png",
+        "description": "A zesty blend of lemon and ginger in a refreshing chai.",
+        "price": 4.85,
+        "weight": "50g",
+        "category": "Chai",
+        "origin": "India",
+        "flavor": [
+            "Citrus",
+            "Spicy"
+        ],
+        "qualities": [
+            "Detox",
+            "Digestion"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Gluten-free"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Almond Spice Chai",
+        "chaiimage": "/Chai_Collections_Image/image8.png",
+        "description": "A rich chai blend with nutty almond flavors.",
+        "price": 6.00,
+        "weight": "75g",
+        "category": "Chai",
+        "origin": "Iran",
+        "flavor": [
+            "Sweet",
+            "Nutty"
+        ],
+        "qualities": [
+            "Relax"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Chili Chocolate Chai",
+        "chaiimage": "/Chai_Collections_Image/image9.png",
+        "description": "A bold chai with a spicy kick of chili and rich chocolate.",
+        "price": 6.50,
+        "weight": "80g",
+        "category": "Chai",
+        "origin": "South Africa",
+        "flavor": [
+            "Spicy",
+            "Sweet"
+        ],
+        "qualities": [
+            "Energy"
+        ],
+        "caffeine": "High Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Honeybush Chai",
+        "chaiimage": "/Chai_Collections_Image/image5.png",
+        "description": "A naturally sweet chai with honeybush and warm spices.",
+        "price": 5.20,
+        "weight": "60g",
+        "category": "Chai",
+        "origin": "South Africa",
+        "flavor": [
+            "Sweet",
+            "Floral"
+        ],
+        "qualities": [
+            "Relax",
+            "Digestion"
+        ],
+        "caffeine": "No Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Pineapple Spice Chai",
+        "chaiimage": "/Chai_Collections_Image/image1.png",
+        "description": "A tropical twist with pineapple and spicy chai flavors.",
+        "price": 5.75,
+        "weight": "70g",
+        "category": "Chai",
+        "origin": "Japan",
+        "flavor": [
+            "Fruity",
+            "Spicy"
+        ],
+        "qualities": [
+            "Energy",
+            "Detox"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Nuts-free"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Chamomile Chai",
+        "chaiimage": "/Chai_Collections_Image/image2.png",
+        "description": "A soothing chai blend with calming chamomile flowers.",
+        "price": 4.95,
+        "weight": "55g",
+        "category": "Chai",
+        "origin": "Iran",
+        "flavor": [
+            "Floral",
+            "Sweet"
+        ],
+        "qualities": [
+            "Relax"
+        ],
+        "caffeine": "No Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Ginger Peach Chai",
+        "chaiimage": "/Chai_Collections_Image/image3.png",
+        "description": "A delightful blend of spicy ginger and sweet peach.",
+        "price": 5.40,
+        "weight": "65g",
+        "category": "Chai",
+        "origin": "India",
+        "flavor": [
+            "Fruity",
+            "Spicy"
+        ],
+        "qualities": [
+            "Digestion",
+            "Energy"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Gluten-free"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Saffron Chai",
+        "chaiimage": "/Chai_Collections_Image/image4.png",
+        "description": "An exotic chai with luxurious saffron and traditional spices.",
+        "price": 7.00,
+        "weight": "85g",
+        "category": "Chai",
+        "origin": "Iran",
+        "flavor": [
+            "Floral",
+            "Spicy"
+        ],
+        "qualities": [
+            "Relax",
+            "Energy"
+        ],
+        "caffeine": "Medium Caffeine",
+        "allergens": [
+            "Gluten-free",
+            "Soy-free"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Apple Cinnamon Chai",
+        "chaiimage": "/Chai_Collections_Image/image5.png",
+        "description": "A cozy blend of sweet apple and warm cinnamon spices.",
+        "price": 5.15,
+        "weight": "60g",
+        "category": "Chai",
+        "origin": "South Africa",
+        "flavor": [
+            "Fruity",
+            "Sweet"
+        ],
+        "qualities": [
+            "Relax"
+        ],
+        "caffeine": "Low Caffeine",
+        "allergens": [
+            "Lactose-free",
+            "Nuts-free"
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "type": "COLLECTIONS",
+        "items": [
+            {
+                "id": 1,
+                "name": "Black teas"
+            },
+            {
+                "id": 2,
+                "name": "Green teas"
+            },
+            {
+                "id": 3,
+                "name": "White teas"
+            },
+            {
+                "id": 4,
+                "name": "Chai"
+            },
+            {
+                "id": 5,
+                "name": "Matcha"
+            },
+            {
+                "id": 6,
+                "name": "Herbal teas"
+            },
+            {
+                "id": 7,
+                "name": "Oolong"
+            },
+            {
+                "id": 8,
+                "name": "Rooibos"
+            },
+            {
+                "id": 9,
+                "name": "Teaware"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "ORIGIN",
+        "items": [
+            {
+                "id": 10,
+                "name": "India"
+            },
+            {
+                "id": 11,
+                "name": "Japan"
+            },
+            {
+                "id": 12,
+                "name": "Iran"
+            },
+            {
+                "id": 13,
+                "name": "South Africa"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "type": "FLAVOR",
+        "items": [
+            {
+                "id": 14,
+                "name": "Spicy"
+            },
+            {
+                "id": 15,
+                "name": "Sweet"
+            },
+            {
+                "id": 16,
+                "name": "Citrus"
+            },
+            {
+                "id": 17,
+                "name": "Fruity"
+            },
+            {
+                "id": 18,
+                "name": "Floral"
+            },
+            {
+                "id": 19,
+                "name": "Grassy"
+            },
+            {
+                "id": 20,
+                "name": "Minty"
+            },
+            {
+                "id": 21,
+                "name": "Bitter"
+            },
+            {
+                "id": 22,
+                "name": "Creamy"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "type": "QUALITIES",
+        "items": [
+            {
+                "id": 23,
+                "name": "Detox"
+            },
+            {
+                "id": 24,
+                "name": "Energy"
+            },
+            {
+                "id": 25,
+                "name": "Relax"
+            },
+            {
+                "id": 26,
+                "name": "Digestion"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "type": "CAFFEINE",
+        "items": [
+            {
+                "id": 27,
+                "name": "No Caffeine"
+            },
+            {
+                "id": 28,
+                "name": "Low Caffeine"
+            },
+            {
+                "id": 29,
+                "name": "Medium Caffeine"
+            },
+            {
+                "id": 30,
+                "name": "High Caffeine"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "type": "ALLERGENS",
+        "items": [
+            {
+                "id": 31,
+                "name": "Lactose-free"
+            },
+            {
+                "id": 32,
+                "name": "Gluten-free"
+            },
+            {
+                "id": 33,
+                "name": "Nuts-free"
+            },
+            {
+                "id": 34,
+                "name": "Soy-free"
+            }
+        ]
+    }
+]
